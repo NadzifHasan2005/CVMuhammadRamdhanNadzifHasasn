@@ -1,0 +1,152 @@
+#hola {
+    color: rgb(239, 224, 52);
+    text-align: center;
+    font-family: poppins;
+    font-size: x-large;
+}
+#profile {
+    background-color: #f9f7f1;
+
+}
+.profile1 {
+    font-family: poppins;
+    display: flex;
+    justify-content:space-around;
+    background-color: #f9f7f1;
+    padding: 17px;
+}
+.profile_foto img{
+    height: 10cm;
+    border-radius: 23px;
+    margin-left: 70px;
+}
+
+.profile_deskripsi p{
+    padding-top: 0.1cm;
+    margin-left: 0.5cm;
+    color: #002c3e;
+    text-align: justify;
+}
+.profile_deskripsi h2{
+    padding-top: 2cm;
+    margin-left: 0.5cm;
+    color: #002c3e;
+    text-align: justify;
+}
+
+#pengalaman {
+    font-family: poppins;
+}
+.pengalaman1 {
+    text-align: center;
+}
+#hobi {
+    font-family: poppins;
+    margin-top: 12pc;
+    padding: 1cm;
+}
+#hobi h2{
+    text-align: center;
+    font-size: xx-large;
+    
+
+      
+    
+}
+.hobi_pertama{
+    display: flex;
+    justify-content: center;
+}
+.hobi1 {
+    margin: 1cm;
+    border-radius: 1cm;
+    background-color: rgb(241, 239, 141);
+}
+.hobi2 {
+    margin: 1cm;
+    padding: 12px;
+    border-radius: 1cm;
+    background-color: aliceblue;
+}
+.hobi3 {
+    margin: 1cm;
+    padding: 12px;
+    border-radius: 1cm;
+    background-color: rgb(245, 152, 152);
+}
+.hobi4 {
+    margin: 1cm;
+    padding: 12px;
+    border-radius: 1cm;
+    background-color: rgb(251, 214, 133);
+}
+.hobi1 p{
+    font-size: medium;
+    text-align: center;
+}
+.hobi2 p{
+    margin: 1cm;
+    text-align: center;
+}
+.hobi3 p{
+    margin: 1cm;
+    text-align: center;
+}
+.hobi4 p{
+    text-align: center;
+}
+.hobi1 img{
+    width: 5cm;
+}
+.hobi2 img{
+    width: 5cm;
+}.hobi3 img{
+    width: 5cm;
+}.hobi4 img{
+    height: 6cm;
+}
+
+#closing {
+    display: flex;
+    font-family: poppins;
+    justify-content: center;
+}
+.closing_pertama{
+    
+}
+.closing_pertama_1{
+    display:inline-flex;
+}
+.closing_pertama_1 a{
+    text-decoration: none;
+    color: black;
+
+}
+.closing_pertama_1 p{
+    margin-left: 12px;
+    text-align: center;
+    
+}
+.closing_pertama_1 img{
+    margin-top: 8px;
+    height: 1cm;
+    border-radius: 12px;
+}
+.closing_pertama_2{
+    display: flex;
+}
+.closing_pertama_2 img{
+    margin-top: 8px;
+    width: 1.5cm;
+    margin-top: 1px;
+    margin-right: px;
+}
+.closing_kedua {
+    margin-left: 7cm;
+}
+.closing_kedua_1 img{
+    width: 1cm;
+}
+.closing_kedua_2 img{
+    width: 1cm;
+}
